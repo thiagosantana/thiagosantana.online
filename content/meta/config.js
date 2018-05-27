@@ -21,8 +21,8 @@ module.exports = {
   manifestDisplay: "standalone",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/thiagosantana" },
+    { name: "twitter", url: "https://twitter.com/thiagosantana" },
+    { name: "instagram", url: "https://www.instagram.com/tr_santana" }
   ]
 };
