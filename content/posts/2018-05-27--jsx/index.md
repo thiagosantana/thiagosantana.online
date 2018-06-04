@@ -92,6 +92,6 @@ Bem melhor usar o JSX né? O Babel vai fazer todo esse trabalho pesado pra vc.
 
 Uma última palavra : Se vc observou bem, viu que no meu exemplo acima, utilizei **className** ao invés do tradicional atributo **class** do HTML.
 
-Isso acontece porque como JSX é em última instância Javascript, identificadores como class são desencorajados, por são palavras reservadas do JS.
+Isso acontece porque como JSX é em última instância Javascript, identificadores como class são desencorajados, por serem palavras reservadas do JS.
 
 É isso por hoje. Sinta-se a vontade pra comentar, e vamo nessa!
